@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vrajesh Soni</h1>
+<h1 align="center">Hi, I'm Vrajesh Soni</h1>
 <h3 align="center">Curious Computer Science Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrajesh1018&label=Profile%20views&color=0e75b6&style=flat" alt="vrajesh1018" /> </p>
